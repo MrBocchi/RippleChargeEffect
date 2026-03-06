@@ -1,0 +1,50 @@
+{
+    "language": "zh-CN",
+    "tray_icon_color": 2,
+    "window": {
+        "width": 1920,
+        "height": 1080,
+        "x": "center",
+        "y": "center"
+    },
+    "color": "#5AFF78",
+    "alpha": 0.85,
+    "bg_darkness": 0,
+    "bg_darkness_new": 0.4,
+    "auto_exit": true,
+    "display_duration": 5.0,
+    "click_exit": true,
+    "fade_duration": 0.5,
+    "ring": {
+        "ring_scale": 0.9,
+        "inner_radius": 0.15,
+        "outer_radius": 0.4,
+        "ripple_distortion": 0.08,
+        "ripple_speed": 0.3
+    },
+    "charge_direction": 1,
+    "line": {
+        "line_thickness": 0.02,
+        "l_shape_y_offset": 0.4,
+        "l_shape_curve_radius": 0.05
+    },
+    "particle": {
+        "particle_enabled": true,
+        "particle_density": 60.0,
+        "particle_speed": 0.04,
+        "particle_wave_ratio": 3.0,
+        "particle_radius_offset": 0.02,
+        "particle_brightness": 3.5
+    },
+    "text": {
+        "y_offset": -20,
+        "font_name": "Microsoft YaHei",
+        "size_large": 100,
+        "size_small": 50,
+        "color": "#FFFFFF",
+        "alpha": 1.0,
+        "decimal_increase_per_sec": 2.5,
+        "text_scale": 1.4,
+        "png_size": 100
+    }
+}

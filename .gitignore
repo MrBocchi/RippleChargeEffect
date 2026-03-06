@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+dist/
+工程文件/
+build/RippleChargeEffect/
+releases/
+*.spec
