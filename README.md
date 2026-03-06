@@ -2,7 +2,7 @@
 
 # Ripple Charge Effect
 
-<p style="font-size:24px;"><strong>水波纹充电动画</strong></p>
+<h3><strong>水波纹充电动画</strong></h3>
 
 简体中文&nbsp;&nbsp;|&nbsp;&nbsp;[English (Trans. by LLM)](/README_en.md)
 
